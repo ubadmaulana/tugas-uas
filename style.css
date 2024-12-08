@@ -1,5 +1,5 @@
 :root{
-    --pink:#e84393;
+    --pink:#E5E1DA;
 }
 
 *{
@@ -29,7 +29,7 @@ section {
     color: #333;
     padding: 1rem;
     margin: 2rem 0;
-    background: rgba(255, 51, 153, .05);
+    background: var(--pink);
 }
 
 .heading span{
