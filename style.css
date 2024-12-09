@@ -26,7 +26,7 @@ section {
 .heading{
     text-align: center;
     font-size: 4rem;
-    color: #333;
+    color: #ffffff;
     padding: 1rem;
     margin: 2rem 0;
     background: var(--pink);
@@ -110,7 +110,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url('Manfaat_Laptop.jpg');
+    background-image: url('SCAR-SE_Scenario-rendering_01-1024x576.png');
     background-size: cover;
     background-position: center;
 }   
@@ -121,11 +121,11 @@ header .fa-bars{
 
 .home .content h3{
     font-size: 6rem;
-    color: #333;
+    color: #fffbfb;
 }
 .home .content span{
     font-size: 3.5rem;
-    color: rgb(65, 57, 57);
+    color: rgb(255, 255, 255);
     padding: 1rem 0;
     line-height: 1.5;
 }
